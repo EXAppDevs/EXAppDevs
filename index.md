@@ -12,7 +12,7 @@ Cu **Just:Alert**, din câteva clickuri, oricine poate căuta, consulta, salva o
 
 ![](assets/20210819_145810_case_details small.png)
 
-Sursa primară a datelor este portalul Ministerului de Justitie [portal.just.ro](https://http://portal.just.ro/SitePages/acasa.aspx), care publică în format de date deschise informațiile disponibile publicului din cadrul sistemului informatic ECRIS al instanțelor de judecată din România.
+Sursa primară a datelor este portalul Ministerului de Justitie [portal.just.ro](http://portal.just.ro/SitePages/acasa.aspx), care publică în format de date deschise informațiile disponibile publicului din cadrul sistemului informatic ECRIS al instanțelor de judecată din România.
 
 Datele sunt prelucrate și redate vizual într-o formă mai accesibilă decât cea disponibilă pe site-ul ministerului. **Just:Alert** oferă functionalități suplimentare de căutare, sortare și filtrare a dosarelor, după multiple criterii, precum și notificarea automată pe telefon la momentul apariției oricăror modificări ale stadiului unui dosar de instanță.
 
